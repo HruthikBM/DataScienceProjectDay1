@@ -5,12 +5,6 @@ This repository contains machine learning experiments and data handling projects
 ## 📁 Project Structure
 
 ```
-├── kaggle.json                     # Kaggle API credentials
-├── requirements.txt                # Python dependencies
-├── case_study_4/                   # Case study experiments
-│   ├── main_exp.ipynb             # Main experimental notebook
-│   ├── data/                      # Case study data
-│   └── src/                       # Source code
 └── personal-cancer-diagnosis/      # Cancer diagnosis classification project
     ├── data-preprocess.ipynb      # Data preprocessing and model training
     ├── encode.py                  # Feature encoding utilities
